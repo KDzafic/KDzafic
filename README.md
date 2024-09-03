@@ -1,8 +1,8 @@
 ## Hi, Welcome to Kenan Dzafic's profile! 👋
 
-- 👩🏻‍💻 Software Engineer excited learnings new things in tech
-- 👩🏻‍🎓 Studied Computer Science at the University of Electrical Engineering in Tuzla, Bosnia & Herzegovina
-- 💭 Currently trying out LeetCode!
+- 👩🏻‍💻 Software Engineer excited learnings new things in tech.
+- 👩🏻‍🎓 Studied Computer Science at the University of Electrical Engineering in Tuzla, Bosnia & Herzegovina.
+- 💭 Currently trying out [LeetCode!](https://leetcode.com/u/KDzafic/).
 - 📝 [Resume](https://drive.google.com/file/d/11Twa6Cq61CdYFqCwzAzByunXTjm8nU-Y/view?usp=drive_link).
 
 
